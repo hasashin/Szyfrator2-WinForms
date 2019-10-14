@@ -1,0 +1,9 @@
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\bin\Debug\Szyfrator 2.exe.config
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\bin\Debug\Szyfrator 2.exe
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\bin\Debug\Szyfrator 2.pdb
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator 2.csprojAssemblyReference.cache
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator_2.Form1.resources
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator_2.Properties.Resources.resources
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator 2.csproj.GenerateResource.cache
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator 2.exe
+C:\Users\domin\Documents\projektyDev\Szyfrator 2\Szyfrator 2\obj\Debug\Szyfrator 2.pdb
